@@ -30,8 +30,3 @@ The following is a tentative week-by-week topic list:
 | Week 13  | Deflection of beams                                                |
 | Week 14  | Transformation of stress and strain *(HW6 due)*                    |
 | Week 15  | Mohr’s Circle and column buckling *(Final Review)*                 |
-
-## Grading Breakdown
-- **Homework**: 40%
-- **Midterm Exam**: 30%
-- **Final Exam**: 30%
